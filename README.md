@@ -30,38 +30,89 @@ Passionate about building real-world AI/ML applications, backend APIs, and moder
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+## 👨‍💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
 </p>
 
-### ⚙️ Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs" />
+<p align="left">
+Python &nbsp;&nbsp;&nbsp;
+C++ &nbsp;&nbsp;&nbsp;
+JavaScript &nbsp;&nbsp;&nbsp;
+HTML &nbsp;&nbsp;&nbsp;
+CSS
 </p>
 
-### 🤖 Machine Learning & Data Science
-<p>
+---
+
+## ⚙️ Frameworks & Libraries
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+<p align="left">
+FastAPI &nbsp;&nbsp;&nbsp;
+Flask &nbsp;&nbsp;&nbsp;
+React &nbsp;&nbsp;&nbsp;
+Node.js
+</p>
+
+---
+
+## 🤖 Machine Learning & Data Science
+
+<p align="left">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+---
+
+## 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
 
-### ☁️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" />
+<p align="left">
+MySQL &nbsp;&nbsp;&nbsp;
+SQLite
 </p>
 
 ---
 
-## 📌 Areas of Interest
+## ☁️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+<p align="left">
+Git &nbsp;&nbsp;&nbsp;
+GitHub &nbsp;&nbsp;&nbsp;
+VS Code &nbsp;&nbsp;&nbsp;
+Vercel
+</p>
+
+---
+
+# 📌 Areas of Interest
 
 - Backend Development
 - REST API Development
@@ -72,7 +123,7 @@ Passionate about building real-world AI/ML applications, backend APIs, and moder
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yashbhanushali17&show_icons=true&theme=tokyonight" height="170"/>
@@ -81,7 +132,7 @@ Passionate about building real-world AI/ML applications, backend APIs, and moder
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=yashbhanushali17&theme=tokyonight"/>
