@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi 👋, I'm Yash Bhanushali</h1>
 
 <h3 align="center">
@@ -36,22 +37,26 @@ Passionate about building real-world AI/ML applications, backend APIs, and moder
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="55"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" width="55"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" width="55"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="55"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="55"/>
 </p>
 
 <p align="left">
-&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-JavaScript&nbsp;&nbsp;&nbsp;
-HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-CSS
+  <sub><b>&nbsp;&nbsp;Python</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>&nbsp;&nbsp;&nbsp;C++</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>JavaScript</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <sub><b>HTML</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>CSS</b></sub>
 </p>
 
 ---
@@ -60,19 +65,22 @@ CSS
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi" width="55"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=flask" width="55"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="55"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
 </p>
 
 <p align="left">
-FastAPI&nbsp;&nbsp;&nbsp;&nbsp;
-Flask&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Node.js
+  <sub><b>FastAPI</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>&nbsp;&nbsp;Flask</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>&nbsp;&nbsp;React</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Node.js</b></sub>
 </p>
 
 ---
@@ -91,13 +99,14 @@ Node.js
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" width="55"/>
 </p>
 
 <p align="left">
-MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-SQLite
+  <sub><b>MySQL</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>SQLite</b></sub>
 </p>
 
 ---
@@ -106,19 +115,22 @@ SQLite
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" width="55"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="55"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" width="55"/>
 </p>
 
 <p align="left">
-Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-GitHub&nbsp;&nbsp;&nbsp;&nbsp;
-VS Code&nbsp;&nbsp;&nbsp;
-Vercel
+  <sub><b>&nbsp;&nbsp;&nbsp;Git</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>GitHub</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>VS Code</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Vercel</b></sub>
 </p>
 
 ---
@@ -137,3 +149,4 @@ Vercel
 <p align="center">
 ⭐ Learning Daily • Building Projects • Growing as a Developer
 </p>
+```
