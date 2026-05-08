@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Yash Bhanushali</h1>
 
 <h3 align="center">
@@ -149,4 +148,3 @@ Passionate about building real-world AI/ML applications, backend APIs, and moder
 <p align="center">
 ⭐ Learning Daily • Building Projects • Growing as a Developer
 </p>
-```
