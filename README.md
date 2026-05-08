@@ -5,17 +5,17 @@ Python Developer • FastAPI Enthusiast • ML & Data Science Learner
 </h3>
 
 <p align="center">
-Passionate about building real-world AI/ML applications, backend APIs, and responsive web projects.
+Passionate about building real-world AI/ML applications, backend APIs, and modern web projects.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BCA Graduate passionate about software development and AI
+- 🎓 BCA Graduate passionate about Software Development and AI
 - 🧠 Currently learning **Machine Learning, FastAPI, Backend Development & Data Science**
-- ⚡ I enjoy building practical projects using Python and modern web technologies
-- 🌱 Improving my problem-solving, backend development, and ML skills
+- ⚡ Building practical projects using Python and modern technologies
+- 🌱 Improving problem-solving and development skills every day
 - 📫 Reach me at: **yashbhanushali1710@gmail.com**
 
 ---
@@ -23,8 +23,8 @@ Passionate about building real-world AI/ML applications, backend APIs, and respo
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/yash-nanda-19699b371/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" />
+<a href="https://www.linkedin.com/in/yash-nanda-19699b371/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 </p>
 
@@ -33,29 +33,29 @@ Passionate about building real-world AI/ML applications, backend APIs, and respo
 ## 🛠️ Tech Stack & Tools
 
 ### 👨‍💻 Languages
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs" />
 </p>
 
 ### 🤖 Machine Learning & Data Science
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="scikit-learn"/>
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### 🧰 Tools & Platforms
-<p align="left">
+### ☁️ Tools & Platforms
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" />
 </p>
 
@@ -90,5 +90,5 @@ Passionate about building real-world AI/ML applications, backend APIs, and respo
 ---
 
 <p align="center">
-⭐ Learning daily • Building projects • Growing as a developer
+⭐ Learning Daily • Building Projects • Growing as a Developer
 </p>
