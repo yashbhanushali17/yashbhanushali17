@@ -32,15 +32,64 @@ Passionate about building real-world AI/ML applications, backend APIs, and moder
 
 ### 👨‍💻 Languages
 
-| Python | C++ | JavaScript | HTML | CSS |
-|---|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=python" width="45"/> | <img src="https://skillicons.dev/icons?i=cpp" width="45"/> | <img src="https://skillicons.dev/icons?i=js" width="45"/> | <img src="https://skillicons.dev/icons?i=html" width="45"/> | <img src="https://skillicons.dev/icons?i=css" width="45"/> |
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br><br>
+Python
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br><br>
+C++
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br><br>
+JavaScript
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br><br>
+HTML
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br><br>
+CSS
+</td>
+</tr>
+</table>
+
+---
 
 ### ⚙️ Frameworks & Libraries
 
-| FastAPI | Flask | React | Node.js |
-|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=fastapi" width="45"/> | <img src="https://skillicons.dev/icons?i=flask" width="45"/> | <img src="https://skillicons.dev/icons?i=react" width="45"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> |
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br><br>
+FastAPI
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=flask" width="50"/><br><br>
+Flask
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br><br>
+React
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br><br>
+Node.js
+</td>
+</tr>
+</table>
+
+---
 
 ### 🤖 Machine Learning & Data Science
 
@@ -50,17 +99,51 @@ Passionate about building real-world AI/ML applications, backend APIs, and moder
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
+---
+
 ### 🗄️ Databases
 
-| MySQL | SQLite |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=mysql" width="45"/> | <img src="https://skillicons.dev/icons?i=sqlite" width="45"/> |
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><br>
+MySQL
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br><br>
+SQLite
+</td>
+</tr>
+</table>
+
+---
 
 ### ☁️ Tools & Platforms
 
-| Git | GitHub | VS Code | Vercel |
-|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=git" width="45"/> | <img src="https://skillicons.dev/icons?i=github" width="45"/> | <img src="https://skillicons.dev/icons?i=vscode" width="45"/> | <img src="https://skillicons.dev/icons?i=vercel" width="45"/> |
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br><br>
+Git
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br><br>
+GitHub
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><br>
+VS Code
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vercel" width="50"/><br><br>
+Vercel
+</td>
+</tr>
+</table>
 
 ---
 
