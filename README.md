@@ -29,33 +29,35 @@ Passionate about building real-world AI/ML applications, backend APIs, and moder
 </p>
 
 ---
-
 # 🛠️ Tech Stack & Tools
 
 ## 👨‍💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="55"/>
-</p>
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+    Python
+  </span>
+  
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>
+    C++
+  </span>
 
-<p align="left">
-  <sub><b>&nbsp;&nbsp;Python</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>&nbsp;&nbsp;&nbsp;C++</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>JavaScript</b></sub>
-  &nbsp;&nbsp;&nbsp;
-  <sub><b>HTML</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>CSS</b></sub>
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+    JavaScript
+  </span>
+
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+    HTML
+  </span>
+
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+    CSS
+  </span>
 </p>
 
 ---
@@ -63,23 +65,25 @@ Passionate about building real-world AI/ML applications, backend APIs, and moder
 ## ⚙️ Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi" width="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" width="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
-</p>
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="55"/><br>
+    FastAPI
+  </span>
 
-<p align="left">
-  <sub><b>FastAPI</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>&nbsp;&nbsp;Flask</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>&nbsp;&nbsp;React</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Node.js</b></sub>
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=flask" width="55"/><br>
+    Flask
+  </span>
+
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+    React
+  </span>
+
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+    Node.js
+  </span>
 </p>
 
 ---
@@ -97,15 +101,15 @@ Passionate about building real-world AI/ML applications, backend APIs, and moder
 ## 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" width="55"/>
-</p>
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+    MySQL
+  </span>
 
-<p align="left">
-  <sub><b>MySQL</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>SQLite</b></sub>
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br>
+    SQLite
+  </span>
 </p>
 
 ---
@@ -113,24 +117,28 @@ Passionate about building real-world AI/ML applications, backend APIs, and moder
 ## ☁️ Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+    Git
+  </span>
+
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+    GitHub
+  </span>
+
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+    VS Code
+  </span>
+
+  <span align="center">
+    <img src="https://skillicons.dev/icons?i=vercel" width="55"/><br>
+    Vercel
+  </span>
 </p>
 
-<p align="left">
-  <sub><b>&nbsp;&nbsp;&nbsp;Git</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>GitHub</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>VS Code</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Vercel</b></sub>
-</p>
+
 
 ---
 
